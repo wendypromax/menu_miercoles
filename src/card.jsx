@@ -31,7 +31,7 @@ export default function Card() {
     )}
    </nav> <br/>
 
-   <h1 className='text-center text-2xl font-bold'>Bienvenido Samuel Care monda</h1> <br/>
+   <h1 className='text-center text-2xl font-bold'>Bienvenido a Mi App</h1> <br/>
    <p className='text-blue-600 text-center'>Aquí inicia tu contenido principal</p>
   </header>
   )
